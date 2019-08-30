@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DC30C440231902A9002689E7 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.txt; path = "Systango-Test/README.txt"; sourceTree = "<group>"; };
 		DC6074B5231500C90088F5F1 /* Systango-Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Systango-Test"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC6074B8231500C90088F5F1 /* PointMinimumDistance.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = PointMinimumDistance.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +42,7 @@
 		DC6074AC231500C90088F5F1 = {
 			isa = PBXGroup;
 			children = (
+				DC30C440231902A9002689E7 /* README.txt */,
 				DC6074B7231500C90088F5F1 /* Systango-Test */,
 				DC6074B6231500C90088F5F1 /* Products */,
 			);

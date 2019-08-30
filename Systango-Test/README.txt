@@ -1,9 +1,16 @@
+
+1) To Run this program open in xcode and run
+2) Enter number of points and further details on console
+
+----------OR----------
+
 Open Terminal go to the directory where this 'PointMinimumDistance.c' exist
 
 Execute following commands to run this program
            
 SGVVN-3:Systango-Test SGVVN$ gcc PointMinimumDistance.c -o PointMinimumDistance.o
-SGVVN-3:Systango-Test SGVVN$ ./PointMinimumDistance.o 
+SGVVN-3:Systango-Test SGVVN$ ./PointMinimumDistance.o
+
 Enter number of point(s): 4
 Enter point(0) X coordinates:3
 Enter point(0) Y coordinates:4
