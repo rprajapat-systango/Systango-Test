@@ -21,7 +21,6 @@ struct Line
 };
 
 void calculateDistanceOfLine(struct Line *line){
-    line->distance = 32;
     struct Position a = line->from;
     struct Position b = line->to;
     
